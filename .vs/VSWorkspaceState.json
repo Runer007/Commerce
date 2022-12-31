@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\auctions",
+    "\\auctions\\migrations",
+    "\\auctions\\static",
+    "\\auctions\\static\\auctions",
+    "\\auctions\\templates",
+    "\\auctions\\templates\\auctions",
+    "\\commerce"
+  ],
+  "SelectedNode": "\\auctions\\templates",
+  "PreviewInSolutionExplorer": false
+}
